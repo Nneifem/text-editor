@@ -32,7 +32,7 @@ Then in the terminal type 'cd server' to enter the server folder and install the
 ## Usage
 
 When everything has been properly installed, in the integrated terminal type in 'npm run start:dev' to start the website and you'll be able to type whatever you want inside there, be able to refresh it and still have everything appear and still be able to use it offline as well.
-![alt text](assets/images/screenshot.png)
+![alt text](/client/image/Screenshot%202023-08-07%20at%206.49.54%20PM.png)
 
 ## License
 
